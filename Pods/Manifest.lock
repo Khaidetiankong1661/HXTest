@@ -1,0 +1,42 @@
+PODS:
+  - JSONModel (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - SVProgressHUD (2.1.2)
+  - UdeskSDK (3.7.1):
+    - UdeskSDK/SDK (= 3.7.1)
+    - UdeskSDK/UIKit (= 3.7.1)
+  - UdeskSDK/SDK (3.7.1)
+  - UdeskSDK/UIKit (3.7.1):
+    - UdeskSDK/SDK
+  - UMengUShare/Core (6.4.5):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.5)
+  - UMengUShare/Social/ReducedWeChat (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/WeChat (6.4.5):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedWeChat
+  - YBAttributeTextTapAction (2.0.6)
+
+DEPENDENCIES:
+  - JSONModel (~> 1.0.2)
+  - MBProgressHUD
+  - MJRefresh
+  - SVProgressHUD
+  - UdeskSDK
+  - UMengUShare/Social/WeChat
+  - YBAttributeTextTapAction
+
+SPEC CHECKSUMS:
+  JSONModel: 6ffcb4ffa3659c9e9a2e5d45d6c7705bab187c03
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  UdeskSDK: d2fee87a9024587b5b081e21238d128cbccf2a97
+  UMengUShare: a5711c54e640b04e3048e931d2b88d50f9cfa55c
+  YBAttributeTextTapAction: 650ff36251479f8cfc7b5dd8fb62587c538ce502
+
+PODFILE CHECKSUM: c8936d5fd53956887bb54f3809ed1c48f58a6d1d
+
+COCOAPODS: 1.2.1
